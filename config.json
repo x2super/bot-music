@@ -1,0 +1,21 @@
+{
+    "token": "",
+    "nodes": [
+        {
+            "host": "lava.kasawa.pro",
+            "port": 2333,
+            "password": "youshallnotpass",
+            "secure": false,
+            "search": true,
+            "identifier": "Non-SSL-Kasawa"
+        },
+        {
+            "host": "lava3.kasawa.pro",
+            "port": 433,
+            "password": "youshallnotpass",
+            "secure": true,
+            "search": true,
+            "identifier": "SSL-Kasawa"
+        }
+    ]
+}
